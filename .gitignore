@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+_srv_out.log
+_srv_err.log
+.claude/settings.local.json
+node_modules/
