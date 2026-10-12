@@ -1671,7 +1671,7 @@ function loadInsights(){
   const box=document.getElementById('alertbox');
   const ins=document.getElementById('ins');
   ins.innerHTML='<div class="ld">인사이트 로딩 중...</div>';
-  fetch('/api/insights?date='+sel).then(r=>r.json()).then(I=>{
+  fetch('api/insights?date='+sel).then(r=>r.json()).then(I=>{
     if(I.error){ins.innerHTML='<div class="ld" style="color:#c62828">인사이트 오류: '+I.error+'</div>';return;}
     lastInsights=I;
     renderAlerts(I);
@@ -1790,7 +1790,7 @@ function renderInsights(I){
 function fd(){
   loadInsights();
   document.getElementById('main').innerHTML='<div class="ld">데이터를 불러오는 중...</div>';
-  fetch('/api/data?date='+sel).then(r=>r.json()).then(d=>{
+  fetch('api/data?date='+sel).then(r=>r.json()).then(d=>{
     if(d.error){
       document.getElementById('main').innerHTML='<div class="ld" style="color:#c62828">DB 오류: '+d.error+'</div>';
       return;
@@ -1898,7 +1898,7 @@ function setFunBrand(b) {
 }
 function loadFunnel(force) {
   const wk = document.getElementById('funWeeks').value;
-  fetchWithRetry('/api/funnel?date=' + sel + '&weeks=' + wk + '&brand=' + funBrand, 'funnelBody',
+  fetchWithRetry('api/funnel?date=' + sel + '&weeks=' + wk + '&brand=' + funBrand, 'funnelBody',
     d => { loaded.funnel = true; renderFunnel(d); }, 'loadFunnel(true)');
 }
 function renderFunnel(d) {
@@ -1933,7 +1933,7 @@ const NP_SORTERS = {
 function loadNewProd(force) {
   const days = document.getElementById('npDays').value;
   const brand = document.getElementById('npBrand').value;
-  fetchWithRetry('/api/newproducts?date=' + sel + '&days=' + days + '&brand=' + brand, 'newprodBody',
+  fetchWithRetry('api/newproducts?date=' + sel + '&days=' + days + '&brand=' + brand, 'newprodBody',
     d => { loaded.newprod = true; lastNewProdData = d; renderNewProd(d); }, 'loadNewProd(true)');
 }
 function renderNewProd(d) {
@@ -1957,7 +1957,7 @@ function renderNewProd(d) {
 // ─── 부가상품 ───
 function loadAddon(force) {
   const days = document.getElementById('adDays').value;
-  fetchWithRetry('/api/addon?date=' + sel + '&days=' + days, 'addonBody',
+  fetchWithRetry('api/addon?date=' + sel + '&days=' + days, 'addonBody',
     d => { loaded.addon = true; renderAddon(d); }, 'loadAddon(true)');
 }
 let addonData = null;
@@ -2008,7 +2008,7 @@ function setBestBrand(b) {
 function loadBest(force) {
   const period = document.getElementById('bestPeriod').value;
   const top = document.getElementById('bestTop').value;
-  fetchWithRetry('/api/best?date=' + sel + '&period=' + period + '&top=' + top + '&brand=' + bestBrand, 'bestBody',
+  fetchWithRetry('api/best?date=' + sel + '&period=' + period + '&top=' + top + '&brand=' + bestBrand, 'bestBody',
     d => { loaded.best = true; renderBest(d); }, 'loadBest(true)');
 }
 function renderBest(d) {
@@ -2051,6 +2051,8 @@ p{font-size:13px;color:#888;margin-bottom:24px}
     data-login_uri="/auth/google"
     data-hd="__ALLOWED_DOMAIN__">
   </div>
+  <script>/* 하위 경로(/c/dailyreport/) 배포 대응: 현재 페이지 기준 절대 URL로 지정 */
+  document.getElementById('g_id_onload').setAttribute('data-login_uri', new URL('auth/google', location.href).href);</script>
   <div class="g_id_signin" data-type="standard" data-theme="outline" data-size="large"></div>
 </div>
 </body></html>"""
@@ -2081,6 +2083,20 @@ def verify_session_cookie(value):
         return email
     except Exception:
         return None
+
+
+def _route(raw_path):
+    """리버스 프록시 하위 경로 배포(예: /c/dailyreport/api/data) 대응 — 프록시가 접두어를 떼지 않고
+    넘겨도 /api/..., /auth/..., /health 로 인식되도록 앞쪽 접두어를 제거한 urlparse 결과를 반환."""
+    parsed = urlparse(raw_path)
+    p = parsed.path
+    for marker in ('/api/', '/auth/'):
+        i = p.find(marker)
+        if i > 0:
+            return parsed._replace(path=p[i:])
+    if p.endswith('/health') and p != '/health':
+        return parsed._replace(path='/health')
+    return parsed
 
 
 class Handler(BaseHTTPRequestHandler):
@@ -2127,7 +2143,7 @@ class Handler(BaseHTTPRequestHandler):
         self.wfile.write('401 Unauthorized'.encode('utf-8'))
 
     def do_POST(self):
-        parsed = urlparse(self.path)
+        parsed = _route(self.path)
         if parsed.path == '/auth/google' and GOOGLE_AUTH_ENABLED:
             try:
                 length = int(self.headers.get('Content-Length', 0))
@@ -2152,7 +2168,7 @@ class Handler(BaseHTTPRequestHandler):
                     return
                 cookie_value = make_session_cookie(email)
                 self.send_response(302)
-                self.send_header('Location', '/')
+                self.send_header('Location', './')
                 self.send_header(
                     'Set-Cookie',
                     f'{SESSION_COOKIE_NAME}={cookie_value}; Path=/; HttpOnly; SameSite=Lax; Max-Age={SESSION_MAX_AGE}'
@@ -2168,7 +2184,7 @@ class Handler(BaseHTTPRequestHandler):
             self.end_headers()
 
     def do_GET(self):
-        parsed = urlparse(self.path)
+        parsed = _route(self.path)
         if parsed.path == '/health':
             self.send_response(200)
             self.send_header('Content-Type', 'text/plain; charset=utf-8')
