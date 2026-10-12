@@ -57,12 +57,26 @@ ALL_GUBUN = ['SB', 'B', 'H', 'SD', 'SS']
 ALL_GUBUN_SQL = "('SB','B','H','SD','SS')"
 
 
+def _env(name, default=None):
+    """배포 플랫폼 환경변수에 .env 값을 따옴표째 붙여넣는 실수 대비 — 앞뒤 공백·감싼 따옴표 제거."""
+    v = os.getenv(name, default)
+    if v is None:
+        return None
+    v = v.strip()
+    if len(v) >= 2 and v[0] == v[-1] and v[0] in ('"', "'"):
+        v = v[1:-1]
+    return v
+
+
 def get_conn():
+    missing = [k for k in ("DB_SERVER", "DB_USER", "DB_PASSWORD") if not _env(k)]
+    if missing:
+        raise RuntimeError(f"DB 환경변수 누락: {', '.join(missing)} — 배포 플랫폼 환경변수(시크릿) 설정 확인 필요")
     return pymssql.connect(
-        server=os.getenv("DB_SERVER"),
-        port=int(os.getenv("DB_PORT", "1433")),
-        user=os.getenv("DB_USER"),
-        password=os.getenv("DB_PASSWORD"),
+        server=_env("DB_SERVER"),
+        port=int(_env("DB_PORT", "1433") or "1433"),
+        user=_env("DB_USER"),
+        password=_env("DB_PASSWORD"),
         database="bar_shop1",
     )
 
