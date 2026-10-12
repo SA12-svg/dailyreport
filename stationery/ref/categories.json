@@ -1,0 +1,260 @@
+[
+  {
+    "name": "웨딩포스터",
+    "cate2": "웨딩포스터",
+    "icon": "🖼️",
+    "color": "#C2185B",
+    "bg": "#FCE4EC",
+    "erp_patterns": [
+      "2026[_]poster[_]%"
+    ]
+  },
+  {
+    "name": "스티커",
+    "cate2": "스티커",
+    "icon": "✨",
+    "color": "#455A64",
+    "bg": "#ECEFF1",
+    "erp_patterns": [
+      "pearl[_]jj[_]%",
+      "roll[_]sticker[_]%",
+      "2026[_]sticker[_]%"
+    ]
+  },
+  {
+    "name": "패브릭포스터",
+    "cate2": "패브릭포스터",
+    "icon": "🪧",
+    "color": "#6A1B9A",
+    "bg": "#F3E5F5",
+    "erp_patterns": [
+      "2026[_]Fabric[_]Poster%"
+    ]
+  },
+  {
+    "name": "아크릴 등신대",
+    "cate2": "아크릴 등신대",
+    "icon": "💎",
+    "color": "#4527A0",
+    "bg": "#EDE7F6",
+    "erp_patterns": [
+      "2026[_]acryl[_]%"
+    ]
+  },
+  {
+    "name": "웨딩촬영소품",
+    "cate2": "웨딩촬영소품",
+    "icon": "📰",
+    "color": "#37474F",
+    "bg": "#CFD8DC",
+    "erp_patterns": [
+      "2026[_]NEWSPAPER%"
+    ]
+  },
+  {
+    "name": "커스텀스티커",
+    "cate2": "커스텀스티커",
+    "icon": "🏷️",
+    "color": "#E65100",
+    "bg": "#FFF3E0",
+    "erp_patterns": [
+      "2026[_]qr[_]%",
+      "Epoxysticker[_]%"
+    ]
+  },
+  {
+    "name": "퍼즐액자",
+    "cate2": "퍼즐액자",
+    "icon": "🧩",
+    "color": "#283593",
+    "bg": "#E8EAF6",
+    "erp_patterns": [
+      "puzzle[_]%"
+    ]
+  },
+  {
+    "name": "포토인화서비스",
+    "cate2": "포토인화서비스",
+    "icon": "📷",
+    "color": "#00695C",
+    "bg": "#E0F2F1",
+    "erp_patterns": [
+      "photo[_]print[_]%"
+    ]
+  },
+  {
+    "name": "엽서",
+    "cate2": "엽서",
+    "icon": "💌",
+    "color": "#BF360C",
+    "bg": "#FBE9E7",
+    "erp_patterns": [
+      "2026card[_]%[_]set"
+    ]
+  },
+  {
+    "name": "디즈니 콜라보",
+    "cate2": "디즈니 콜라보",
+    "icon": "🐭",
+    "color": "#AD1457",
+    "bg": "#FCE4EC",
+    "erp_patterns": [
+      "BC5937%"
+    ]
+  },
+  {
+    "name": "어버이날",
+    "cate2": "어버이날",
+    "icon": "🪄",
+    "color": "#4527A0",
+    "bg": "#EDE7F6",
+    "erp_patterns": [
+      "2026[_]cn[_]card%"
+    ],
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "name": "아크릴소품",
+    "cate2": "아크릴소품",
+    "icon": "🎨",
+    "color": "#EF6C00",
+    "bg": "#FFF3E0",
+    "erp_patterns": [
+      "GTK%",
+      "photo[_]tb[_]%"
+    ],
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "name": "사진인화서비스",
+    "cate2": "사진인화서비스",
+    "icon": "📦",
+    "color": "#5D4037",
+    "bg": "#EFEBE9",
+    "erp_patterns": [],
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "name": "엽서/캘린더",
+    "cate2": "엽서/캘린더",
+    "icon": "🎁",
+    "color": "#00838F",
+    "bg": "#E0F7FA",
+    "erp_patterns": [],
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "name": "꽃다발",
+    "cate2": "꽃다발",
+    "icon": "🌿",
+    "color": "#558B2F",
+    "bg": "#F1F8E9",
+    "erp_patterns": [],
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "name": "선물 포장지",
+    "cate2": "선물 포장지",
+    "icon": "🎀",
+    "color": "#AD1457",
+    "bg": "#FCE4EC",
+    "erp_patterns": [],
+    "auto_added": true,
+    "added_at": "2026-04-29"
+  },
+  {
+    "name": "콜라보",
+    "cate2": "콜라보",
+    "icon": "🪄",
+    "color": "#4527A0",
+    "bg": "#EDE7F6",
+    "erp_patterns": [],
+    "auto_added": true,
+    "added_at": "2026-05-14"
+  },
+  {
+    "name": "웨딩 스탬프",
+    "cate2": "웨딩 스탬프",
+    "icon": "🎨",
+    "color": "#EF6C00",
+    "bg": "#FFF3E0",
+    "erp_patterns": [
+      "2026[_]stamp[_]%"
+    ],
+    "auto_added": true,
+    "added_at": "2026-06-15"
+  },
+  {
+    "name": "웨딩신문",
+    "cate2": "웨딩신문",
+    "icon": "📦",
+    "color": "#5D4037",
+    "bg": "#EFEBE9",
+    "erp_patterns": [],
+    "auto_added": true,
+    "added_at": "2026-06-15"
+  },
+  {
+    "name": "메시지 카드",
+    "cate2": "메시지 카드",
+    "icon": "🎁",
+    "color": "#00838F",
+    "bg": "#E0F7FA",
+    "erp_patterns": [
+      "MC0%"
+    ],
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "name": "돌잔치",
+    "cate2": "돌잔치",
+    "icon": "🌿",
+    "color": "#558B2F",
+    "bg": "#F1F8E9",
+    "erp_patterns": [
+      "b[_]puzzle[_]%",
+      "b[_]GTK%",
+      "B[_]magnet%",
+      "B[_]photo[_]print[_]%",
+      "b[_]photo[_]print[_]%"
+    ],
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "name": "추석 카드/봉투/선물포장",
+    "cate2": "추석 카드/봉투/선물포장",
+    "icon": "🎀",
+    "color": "#AD1457",
+    "bg": "#FCE4EC",
+    "erp_patterns": [],
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "name": "NEW 나만의 무드등",
+    "cate2": "NEW 나만의 무드등",
+    "icon": "🪄",
+    "color": "#4527A0",
+    "bg": "#EDE7F6",
+    "erp_patterns": [],
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "name": "스탬프",
+    "cate2": "스탬프",
+    "icon": "🎨",
+    "color": "#EF6C00",
+    "bg": "#FFF3E0",
+    "erp_patterns": [],
+    "auto_added": true,
+    "added_at": "2026-10-01"
+  }
+]

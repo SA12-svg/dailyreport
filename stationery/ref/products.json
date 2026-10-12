@@ -1,0 +1,2757 @@
+[
+  {
+    "erp_code": "2026_poster_02",
+    "card_code": "2026_poster_02",
+    "name": "영화같은 순간",
+    "category": "웨딩포스터"
+  },
+  {
+    "erp_code": "2026_poster_03",
+    "card_code": "2026_poster_03",
+    "name": "아름다운순간",
+    "category": "웨딩포스터"
+  },
+  {
+    "erp_code": "2026_poster_04",
+    "card_code": "2026_poster_04",
+    "name": "심플한 다정함",
+    "category": "웨딩포스터"
+  },
+  {
+    "erp_code": "2026_poster_01",
+    "card_code": "2026_poster_01",
+    "name": "영화같은 순간 ver1(단종)",
+    "category": "웨딩포스터",
+    "discontinued": true,
+    "discontinued_at": "2026-04-28"
+  },
+  {
+    "erp_code": "pearl_jj_3",
+    "card_code": "pearl_jj_3",
+    "name": "진주 스티커S",
+    "category": "스티커"
+  },
+  {
+    "erp_code": "pearl_jj_4",
+    "card_code": "pearl_jj_4",
+    "name": "진주 스티커M",
+    "category": "스티커"
+  },
+  {
+    "erp_code": "pearl_jj_5",
+    "card_code": "pearl_jj_5",
+    "name": "진주 스티커L",
+    "category": "스티커"
+  },
+  {
+    "erp_code": "2026_sticker_11",
+    "card_code": "2026_sticker_11",
+    "name": "소프트터치",
+    "category": "스티커"
+  },
+  {
+    "erp_code": "2026_sticker_12",
+    "card_code": "2026_sticker_12",
+    "name": "오브제 씰",
+    "category": "스티커"
+  },
+  {
+    "erp_code": "2026_sticker_05",
+    "card_code": "2026_sticker_05",
+    "name": "마음픽",
+    "category": "스티커"
+  },
+  {
+    "erp_code": "2026_sticker_06",
+    "card_code": "2026_sticker_06",
+    "name": "마음 메모",
+    "category": "스티커"
+  },
+  {
+    "erp_code": "2026_sticker_07",
+    "card_code": "2026_sticker_07",
+    "name": "코너 메시지",
+    "category": "스티커"
+  },
+  {
+    "erp_code": "2026_sticker_08",
+    "card_code": "2026_sticker_08",
+    "name": "마음 한 줄",
+    "category": "스티커"
+  },
+  {
+    "erp_code": "2026_sticker_09",
+    "card_code": "2026_sticker_09",
+    "name": "한조각 메시지",
+    "category": "스티커"
+  },
+  {
+    "erp_code": "2026_sticker_10",
+    "card_code": "2026_sticker_10",
+    "name": "포인트 메시지",
+    "category": "스티커"
+  },
+  {
+    "erp_code": "roll_sticker_pu",
+    "card_code": "roll_sticker_pu",
+    "name": "빈티지가든 롤스티커(퍼플)",
+    "category": "스티커"
+  },
+  {
+    "erp_code": "roll_sticker_bl",
+    "card_code": "roll_sticker_bl",
+    "name": "빈티지가든 롤스티커(블루)",
+    "category": "스티커"
+  },
+  {
+    "erp_code": "roll_sticker_pk",
+    "card_code": "roll_sticker_pk",
+    "name": "빈티지가든 롤스티커(핑크)",
+    "category": "스티커"
+  },
+  {
+    "erp_code": "roll_sticker_br",
+    "card_code": "roll_sticker_br",
+    "name": "빈티지가든 롤스티커(브라운)",
+    "category": "스티커"
+  },
+  {
+    "erp_code": "roll_sticker_gr",
+    "card_code": "roll_sticker_gr",
+    "name": "빈티지가든 롤스티커(그린)",
+    "category": "스티커"
+  },
+  {
+    "erp_code": "roll_sticker_yl",
+    "card_code": "roll_sticker_yl",
+    "name": "빈티지가든 롤스티커(옐로우)",
+    "category": "스티커"
+  },
+  {
+    "erp_code": "2026_Fabric_Poster2",
+    "card_code": "2026_Fabric_Poster2",
+    "name": "Our day",
+    "category": "패브릭포스터"
+  },
+  {
+    "erp_code": "2026_Fabric_Poster3",
+    "card_code": "2026_Fabric_Poster3",
+    "name": "웨딩데이",
+    "category": "패브릭포스터"
+  },
+  {
+    "erp_code": "2026_Fabric_Poster4",
+    "card_code": "2026_Fabric_Poster4",
+    "name": "Story of",
+    "category": "패브릭포스터"
+  },
+  {
+    "erp_code": "2026_acryl_01",
+    "card_code": "2026_acryl_01",
+    "name": "실루엣",
+    "category": "아크릴 등신대"
+  },
+  {
+    "erp_code": "2026_acryl_02",
+    "card_code": "2026_acryl_02",
+    "name": "러브 프레임",
+    "category": "아크릴 등신대"
+  },
+  {
+    "erp_code": "2026_acryl_03",
+    "card_code": "2026_acryl_03",
+    "name": "클로버",
+    "category": "아크릴 등신대"
+  },
+  {
+    "erp_code": "2026_acryl_04",
+    "card_code": "2026_acryl_04",
+    "name": "홈스윗홈",
+    "category": "아크릴 등신대"
+  },
+  {
+    "erp_code": "2026_acryl_05",
+    "card_code": "2026_acryl_05",
+    "name": "어바웃타임XS",
+    "category": "아크릴 등신대"
+  },
+  {
+    "erp_code": "2026_acryl_06",
+    "card_code": "2026_acryl_06",
+    "name": "어바웃타임S",
+    "category": "아크릴 등신대"
+  },
+  {
+    "erp_code": "2026_acryl_07",
+    "card_code": "2026_acryl_07",
+    "name": "어바웃타임M",
+    "category": "아크릴 등신대"
+  },
+  {
+    "erp_code": "2026_acryl_08",
+    "card_code": "2026_acryl_08",
+    "name": "어바웃타임L",
+    "category": "아크릴 등신대"
+  },
+  {
+    "erp_code": "2026_NEWSPAPER1",
+    "card_code": "2026_NEWSPAPER1",
+    "name": "웨딩타임즈",
+    "category": "웨딩촬영소품"
+  },
+  {
+    "erp_code": "2026_NEWSPAPER3",
+    "card_code": "2026_NEWSPAPER3",
+    "name": "결혼특집호",
+    "category": "웨딩촬영소품"
+  },
+  {
+    "erp_code": "2026_NEWSPAPER2",
+    "card_code": "2026_NEWSPAPER2",
+    "name": "웨딩매거진",
+    "category": "웨딩촬영소품"
+  },
+  {
+    "erp_code": "2026_sticker_01",
+    "card_code": "2026_sticker_01",
+    "name": "웨딩스티커",
+    "category": "커스텀스티커"
+  },
+  {
+    "erp_code": "2026_sticker_02",
+    "card_code": "2026_sticker_02",
+    "name": "마이리틀컷 스티커",
+    "category": "커스텀스티커"
+  },
+  {
+    "erp_code": "2026_sticker_03",
+    "card_code": "2026_sticker_03",
+    "name": "아워패밀리 스티커",
+    "category": "커스텀스티커"
+  },
+  {
+    "erp_code": "2026_sticker_04",
+    "card_code": "2026_sticker_04",
+    "name": "댕댕이 스티커",
+    "category": "커스텀스티커"
+  },
+  {
+    "erp_code": "2026_sticker_13",
+    "card_code": "2026_sticker_13",
+    "name": "우리의 기억",
+    "category": "커스텀스티커"
+  },
+  {
+    "erp_code": "2026_sticker_14",
+    "card_code": "2026_sticker_14",
+    "name": "그날의 무드",
+    "category": "커스텀스티커"
+  },
+  {
+    "erp_code": "2026_qr_w01",
+    "card_code": "2026_qr_w01",
+    "name": "QR스티커1",
+    "category": "커스텀스티커",
+    "discontinued": true,
+    "discontinued_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026_qr_w02",
+    "card_code": "2026_qr_w02",
+    "name": "QR스티커2",
+    "category": "커스텀스티커",
+    "discontinued": true,
+    "discontinued_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026_qr_w03",
+    "card_code": "2026_qr_w03",
+    "name": "QR스티커3",
+    "category": "커스텀스티커",
+    "discontinued": true,
+    "discontinued_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026_qr_w04",
+    "card_code": "2026_qr_w04",
+    "name": "QR스티커4",
+    "category": "커스텀스티커",
+    "discontinued": true,
+    "discontinued_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026_qr_w05",
+    "card_code": "2026_qr_w05",
+    "name": "QR스티커5",
+    "category": "커스텀스티커",
+    "discontinued": true,
+    "discontinued_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026_qr_w06",
+    "card_code": "2026_qr_w06",
+    "name": "QR스티커6",
+    "category": "커스텀스티커",
+    "discontinued": true,
+    "discontinued_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026_qr_w07",
+    "card_code": "2026_qr_w07",
+    "name": "QR스티커7",
+    "category": "커스텀스티커",
+    "discontinued": true,
+    "discontinued_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026_qr_w08",
+    "card_code": "2026_qr_w08",
+    "name": "QR스티커8",
+    "category": "커스텀스티커",
+    "discontinued": true,
+    "discontinued_at": "2026-08-10"
+  },
+  {
+    "erp_code": "puzzle_01",
+    "card_code": "puzzle_01",
+    "name": "기억조각 퍼즐S",
+    "category": "퍼즐액자"
+  },
+  {
+    "erp_code": "puzzle_02",
+    "card_code": "puzzle_02",
+    "name": "기억조각 퍼즐M",
+    "category": "퍼즐액자"
+  },
+  {
+    "erp_code": "puzzle_03",
+    "card_code": "puzzle_03",
+    "name": "기억조각 퍼즐L",
+    "category": "퍼즐액자"
+  },
+  {
+    "erp_code": "photo_print_01",
+    "card_code": "photo_print_01",
+    "name": "반명함 8매 [3x4cm]",
+    "category": "포토인화서비스"
+  },
+  {
+    "erp_code": "photo_print_02",
+    "card_code": "photo_print_02",
+    "name": "주민등록/여권 8매 [3.5x4.5cm]",
+    "category": "포토인화서비스"
+  },
+  {
+    "erp_code": "photo_print_03",
+    "card_code": "photo_print_03",
+    "name": "명함 4매 [5x7cm]",
+    "category": "포토인화서비스"
+  },
+  {
+    "erp_code": "2026card_01_set",
+    "card_code": "2026card_01_set",
+    "name": "온도와 진심",
+    "category": "엽서"
+  },
+  {
+    "erp_code": "2026card_06_set",
+    "card_code": "2026card_06_set",
+    "name": "다정한 조각",
+    "category": "엽서"
+  },
+  {
+    "erp_code": "2026card_11_set",
+    "card_code": "2026card_11_set",
+    "name": "At that Time",
+    "category": "엽서"
+  },
+  {
+    "erp_code": "2026card_16_set",
+    "card_code": "2026card_16_set",
+    "name": "WITH LOVE",
+    "category": "엽서"
+  },
+  {
+    "erp_code": "2026card_21_set",
+    "card_code": "2026card_21_set",
+    "name": "Romantic day",
+    "category": "엽서"
+  },
+  {
+    "erp_code": "BC5937_DI5937",
+    "card_code": "BC5937_DI5937",
+    "name": "하트 속 우리 둘 엽서 카드",
+    "category": "디즈니 콜라보",
+    "discontinued": true,
+    "discontinued_at": "2026-09-18"
+  },
+  {
+    "erp_code": "BYFLM012604",
+    "card_code": "BYFLM012604",
+    "name": "[23%할인가]핑크 카네이션 꽃다발_M",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "BYFLL012604",
+    "card_code": "BYFLL012604",
+    "name": "[23%할인가]핑크 카네이션 꽃다발_L",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "BYFLXL012604",
+    "card_code": "BYFLXL012604",
+    "name": "[23%할인가]핑크 카네이션 꽃다발_XL",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "BYFLM022604",
+    "card_code": "BYFLM022604",
+    "name": "[23%할인가]레드 카네이션 꽃다발_M",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "BYFLL022604",
+    "card_code": "BYFLL022604",
+    "name": "[23%할인가]레드 카네이션 꽃다발_L",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "BYFLXL022604",
+    "card_code": "BYFLXL022604",
+    "name": "[23%할인가]레드 카네이션 꽃다발_XL",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "2026_cn_card01_set",
+    "card_code": "2026_cn_card01_set",
+    "name": "소프트 그라데이션 핑크 세트",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "2026_cn_card06_set",
+    "card_code": "2026_cn_card06_set",
+    "name": "카네이션 가든 세트",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "2026_cn_card07_set",
+    "card_code": "2026_cn_card07_set",
+    "name": "수채화 핑크 세트",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "2026_cn_card08_set",
+    "card_code": "2026_cn_card08_set",
+    "name": "사랑이 머무는 자리 세트",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "2026_cn_card09_set",
+    "card_code": "2026_cn_card09_set",
+    "name": "레드 메시지 세트",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "2026_cn_card05_set",
+    "card_code": "2026_cn_card05_set",
+    "name": "시그니처 레드 세트",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "2026_cn_card03_set",
+    "card_code": "2026_cn_card03_set",
+    "name": "블루밍 레드 카네이션 세트",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "2026_cn_card10_set",
+    "card_code": "2026_cn_card10_set",
+    "name": "빛나는 계절의 감사 세트",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "2026_cn_card02_set",
+    "card_code": "2026_cn_card02_set",
+    "name": "카네이션 메시지 세트",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "BYFLS012603",
+    "card_code": "BYFLS012603",
+    "name": "[23%할인가]랜덤 1종 꽃다발_S",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "BYFLM012603",
+    "card_code": "BYFLM012603",
+    "name": "[23%할인가]소프트 핑크 5종 꽃다발_M",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "BYFLL012603",
+    "card_code": "BYFLL012603",
+    "name": "[23%할인가]가든 믹스 6종 꽃다발_L",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "BYFLXL012603",
+    "card_code": "BYFLXL012603",
+    "name": "[23%할인가]프리미엄 시즌 8종 꽃다발_XL",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "BYFLG012603",
+    "card_code": "BYFLG012603",
+    "name": "[23%할인가]거베라 5송이 세트(핑크)",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "BYFLG012603_A",
+    "card_code": "BYFLG012603_A",
+    "name": "[23%할인가]거베라 5송이 세트(핑크)",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "BYFLG012603_B",
+    "card_code": "BYFLG012603_B",
+    "name": "[23%할인가]거베라 5송이 세트(아이보리)",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "BYFLG012603_C",
+    "card_code": "BYFLG012603_C",
+    "name": "[23%할인가]거베라 5송이 세트(오렌지)",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "BYFLO012603_I",
+    "card_code": "BYFLO012603_I",
+    "name": "[31%할인가]장미 5송이 세트 (아이보리)",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "BYFLO012603_R",
+    "card_code": "BYFLO012603_R",
+    "name": "[31%할인가]장미 5송이 세트 (레드)",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "BYFLO012603_Y",
+    "card_code": "BYFLO012603_Y",
+    "name": "[31%할인가]장미 5송이 세트 (옐로우)",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "BYFLO012603_P",
+    "card_code": "BYFLO012603_P",
+    "name": "[31%할인가]장미 5송이 세트 (핑크)",
+    "category": "어버이날",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "2026_Fabric_Poster1",
+    "card_code": "2026_Fabric_Poster1",
+    "name": "[무료배송]Our day[패브릭포스터]",
+    "category": "패브릭포스터",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "2026_NEWSPAPER1_1",
+    "card_code": "2026_NEWSPAPER1_1",
+    "name": "[무료배송]웨딩타임즈",
+    "category": "웨딩촬영소품",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "2026_NEWSPAPER3_1",
+    "card_code": "2026_NEWSPAPER3_1",
+    "name": "[무료배송]결혼특집호",
+    "category": "웨딩촬영소품",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "2026_NEWSPAPER2_2",
+    "card_code": "2026_NEWSPAPER2_2",
+    "name": "[무료배송]웨딩매거진",
+    "category": "웨딩촬영소품",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "photo_print_04",
+    "card_code": "photo_print_04",
+    "name": "3 x 5 4매 [5x7cm]",
+    "category": "사진인화서비스",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "photo_print_05",
+    "card_code": "photo_print_05",
+    "name": "D4 5매 [10.2x13.6cm]",
+    "category": "사진인화서비스",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "photo_print_06",
+    "card_code": "photo_print_06",
+    "name": "4 x 6 2매 [10.2x15.2cm]",
+    "category": "사진인화서비스",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "photo_print_07",
+    "card_code": "photo_print_07",
+    "name": "5 x 7 2매 [12.7x17.8cm]",
+    "category": "사진인화서비스",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "photo_print_08",
+    "card_code": "photo_print_08",
+    "name": "8 x 10 1매 [20.3x25.4cm]",
+    "category": "사진인화서비스",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "photo_print_09",
+    "card_code": "photo_print_09",
+    "name": "A4 1매 [21x29.7cm]",
+    "category": "사진인화서비스",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "photo_print_10",
+    "card_code": "photo_print_10",
+    "name": "12 x 16 1매 [28.5x36.2cm]",
+    "category": "사진인화서비스",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "DI5214_SET",
+    "card_code": "DI5214_SET",
+    "name": "Comic Art collection #Vintage",
+    "category": "디즈니 콜라보",
+    "auto_added": true,
+    "added_at": "2026-04-28",
+    "discontinued": true,
+    "discontinued_at": "2026-09-18"
+  },
+  {
+    "erp_code": "DI5219_SET",
+    "card_code": "DI5219_SET",
+    "name": "Comic Art collection Chip&Dale",
+    "category": "디즈니 콜라보",
+    "auto_added": true,
+    "added_at": "2026-04-28",
+    "discontinued": true,
+    "discontinued_at": "2026-09-18"
+  },
+  {
+    "erp_code": "DI5224_SET",
+    "card_code": "DI5224_SET",
+    "name": "Comic Art collection Winnie the Pooh",
+    "category": "디즈니 콜라보",
+    "auto_added": true,
+    "added_at": "2026-04-28",
+    "discontinued": true,
+    "discontinued_at": "2026-09-18"
+  },
+  {
+    "erp_code": "DI5229_SET",
+    "card_code": "DI5229_SET",
+    "name": "Comic Art collection Mikey and Friends",
+    "category": "디즈니 콜라보",
+    "auto_added": true,
+    "added_at": "2026-04-28",
+    "discontinued": true,
+    "discontinued_at": "2026-09-18"
+  },
+  {
+    "erp_code": "DI5232_SET",
+    "card_code": "DI5232_SET",
+    "name": "Winnie the Pooh Card Set",
+    "category": "디즈니 콜라보",
+    "auto_added": true,
+    "added_at": "2026-04-28",
+    "discontinued": true,
+    "discontinued_at": "2026-09-18"
+  },
+  {
+    "erp_code": "DI5235_SET",
+    "card_code": "DI5235_SET",
+    "name": "Classic Collection #Winnie the Pooh and Friends",
+    "category": "디즈니 콜라보",
+    "auto_added": true,
+    "added_at": "2026-04-28",
+    "discontinued": true,
+    "discontinued_at": "2026-09-18"
+  },
+  {
+    "erp_code": "DI5240_SET",
+    "card_code": "DI5240_SET",
+    "name": "Winnie the Pooh and Flower",
+    "category": "디즈니 콜라보",
+    "auto_added": true,
+    "added_at": "2026-04-28",
+    "discontinued": true,
+    "discontinued_at": "2026-09-18"
+  },
+  {
+    "erp_code": "DI5241_SET",
+    "card_code": "DI5241_SET",
+    "name": "Winnie the Pooh and balloon",
+    "category": "디즈니 콜라보",
+    "auto_added": true,
+    "added_at": "2026-04-28",
+    "discontinued": true,
+    "discontinued_at": "2026-09-18"
+  },
+  {
+    "erp_code": "DI5242_SET",
+    "card_code": "DI5242_SET",
+    "name": "Winnie the Pooh Harte",
+    "category": "디즈니 콜라보",
+    "auto_added": true,
+    "added_at": "2026-04-28",
+    "discontinued": true,
+    "discontinued_at": "2026-09-18"
+  },
+  {
+    "erp_code": "DI5243_SET",
+    "card_code": "DI5243_SET",
+    "name": "Comic Art collection #Winnie the Pooh",
+    "category": "디즈니 콜라보",
+    "auto_added": true,
+    "added_at": "2026-04-28",
+    "discontinued": true,
+    "discontinued_at": "2026-09-18"
+  },
+  {
+    "erp_code": "DI5248_SET",
+    "card_code": "DI5248_SET",
+    "name": "Winnie the Pooh Garland Card Set",
+    "category": "디즈니 콜라보",
+    "auto_added": true,
+    "added_at": "2026-04-28",
+    "discontinued": true,
+    "discontinued_at": "2026-09-18"
+  },
+  {
+    "erp_code": "2026_calendar_set",
+    "card_code": "2026_calendar_set",
+    "name": "[30%할인가]2026 레터프레스 캘린더",
+    "category": "엽서/캘린더",
+    "auto_added": true,
+    "added_at": "2026-04-28"
+  },
+  {
+    "erp_code": "2026pb_s_01",
+    "card_code": "2026pb_s_01",
+    "name": "밀키 홈 멜로디 5장 세트[종이봉투 S]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-04-29"
+  },
+  {
+    "erp_code": "2026pb_s_02",
+    "card_code": "2026pb_s_02",
+    "name": "빈티지 아카이브 5장 세트[종이봉투 S]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-04-29"
+  },
+  {
+    "erp_code": "2026pb_s_03",
+    "card_code": "2026pb_s_03",
+    "name": "블루 엔젤  5장 세트[종이봉투 S]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-04-29"
+  },
+  {
+    "erp_code": "2026pb_s_04",
+    "card_code": "2026pb_s_04",
+    "name": "비밀의 정원 5장 세트[종이봉투 S]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-04-29"
+  },
+  {
+    "erp_code": "2026pb_m_01",
+    "card_code": "2026pb_m_01",
+    "name": "원더랜드 5장 세트 [종이봉투 M]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-04-29"
+  },
+  {
+    "erp_code": "2026pb_m_02",
+    "card_code": "2026pb_m_02",
+    "name": "엔젤 드로잉 5장 세트[종이봉투 M]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-04-29"
+  },
+  {
+    "erp_code": "2026pb_m_03",
+    "card_code": "2026pb_m_03",
+    "name": "시엘 블루 메모리 5장 세트[종이봉투 M]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-04-29"
+  },
+  {
+    "erp_code": "2026pb_m_04",
+    "card_code": "2026pb_m_04",
+    "name": "비밀의 정원 5장 세트[종이봉투 M]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-04-29"
+  },
+  {
+    "erp_code": "2026pb_h_01",
+    "card_code": "2026pb_h_01",
+    "name": "어느날의 물결[포장 헤더]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-04-29",
+    "discontinued": true,
+    "discontinued_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_h_02",
+    "card_code": "2026pb_h_02",
+    "name": "숲속의 안식처[포장 헤더]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-04-29",
+    "discontinued": true,
+    "discontinued_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_h_03",
+    "card_code": "2026pb_h_03",
+    "name": "바람 비행[포장 헤더]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-04-29",
+    "discontinued": true,
+    "discontinued_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_h_04",
+    "card_code": "2026pb_h_04",
+    "name": "너를 향한 매듭[포장 헤더]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-04-29",
+    "discontinued": true,
+    "discontinued_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026_poster_14",
+    "card_code": "2026_poster_14",
+    "name": "[무료배송]러브 프레임[웨딩 포스터]",
+    "category": "웨딩포스터",
+    "auto_added": true,
+    "added_at": "2026-04-29"
+  },
+  {
+    "erp_code": "2026_poster_15",
+    "card_code": "2026_poster_15",
+    "name": "[무료배송]눈 부신 날[웨딩 포스터]",
+    "category": "웨딩포스터",
+    "auto_added": true,
+    "added_at": "2026-04-29"
+  },
+  {
+    "erp_code": "2026_poster_16",
+    "card_code": "2026_poster_16",
+    "name": "[무료배송]맞닿은 순간[웨딩 포스터]",
+    "category": "웨딩포스터",
+    "auto_added": true,
+    "added_at": "2026-04-29"
+  },
+  {
+    "erp_code": "2026_poster_17",
+    "card_code": "2026_poster_17",
+    "name": "[무료배송]Celebrate[웨딩 포스터]",
+    "category": "웨딩포스터",
+    "auto_added": true,
+    "added_at": "2026-04-29"
+  },
+  {
+    "erp_code": "2026_poster_18",
+    "card_code": "2026_poster_18",
+    "name": "[무료배송]모던 챕터[웨딩 포스터]",
+    "category": "웨딩포스터",
+    "auto_added": true,
+    "added_at": "2026-04-30"
+  },
+  {
+    "erp_code": "2026_poster_19",
+    "card_code": "2026_poster_19",
+    "name": "[무료배송]따뜻한 기억[웨딩 포스터]",
+    "category": "웨딩포스터",
+    "auto_added": true,
+    "added_at": "2026-04-30"
+  },
+  {
+    "erp_code": "2026_poster_20",
+    "card_code": "2026_poster_20",
+    "name": "[무료배송]노을빛 항구[웨딩 포스터]",
+    "category": "웨딩포스터",
+    "auto_added": true,
+    "added_at": "2026-04-30"
+  },
+  {
+    "erp_code": "2026_poster_21",
+    "card_code": "2026_poster_21",
+    "name": "[무료배송]눈부신 뒷모습[웨딩포스터]",
+    "category": "웨딩포스터",
+    "auto_added": true,
+    "added_at": "2026-04-30"
+  },
+  {
+    "erp_code": "2026_poster_22",
+    "card_code": "2026_poster_22",
+    "name": "[무료배송]따뜻한 온도[웨딩 포스터]",
+    "category": "웨딩포스터",
+    "auto_added": true,
+    "added_at": "2026-04-30"
+  },
+  {
+    "erp_code": "2026_poster_23",
+    "card_code": "2026_poster_23",
+    "name": "[무료배송]Symphony[웨딩 포스터]",
+    "category": "웨딩포스터",
+    "auto_added": true,
+    "added_at": "2026-04-30"
+  },
+  {
+    "erp_code": "2026_poster_24",
+    "card_code": "2026_poster_24",
+    "name": "[무료배송]디어 모먼트[웨딩 포스터]",
+    "category": "웨딩포스터",
+    "auto_added": true,
+    "added_at": "2026-04-30"
+  },
+  {
+    "erp_code": "2026_poster_04_set",
+    "card_code": "2026_poster_04_set",
+    "name": "[무료배송]사랑한 계절[웨딩포스터 세트]",
+    "category": "웨딩포스터",
+    "auto_added": true,
+    "added_at": "2026-05-01"
+  },
+  {
+    "erp_code": "2026_poster_05_set",
+    "card_code": "2026_poster_05_set",
+    "name": "[무료배송]러빙유[웨딩포스터 세트]",
+    "category": "웨딩포스터",
+    "auto_added": true,
+    "added_at": "2026-05-01"
+  },
+  {
+    "erp_code": "2026_poster_06",
+    "card_code": "2026_poster_06",
+    "name": "[무료배송]무드 모드[웨딩포스터 세트]",
+    "category": "웨딩포스터",
+    "auto_added": true,
+    "added_at": "2026-05-01"
+  },
+  {
+    "erp_code": "2026_poster_07_set",
+    "card_code": "2026_poster_07_set",
+    "name": "[무료배송]레몬 시럽[웨딩포스터 세트]",
+    "category": "웨딩포스터",
+    "auto_added": true,
+    "added_at": "2026-05-01"
+  },
+  {
+    "erp_code": "2026pb_h_05",
+    "card_code": "2026pb_h_05",
+    "name": "밀키 홈 멜로디 [헤더택+opp포함]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07",
+    "discontinued": true,
+    "discontinued_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_h_06",
+    "card_code": "2026pb_h_06",
+    "name": "빈티지 아카이브 [헤더택+opp포함]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07",
+    "discontinued": true,
+    "discontinued_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_h_07",
+    "card_code": "2026pb_h_07",
+    "name": "블루 엔젤 [헤더택+opp포함]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07",
+    "discontinued": true,
+    "discontinued_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_h_08",
+    "card_code": "2026pb_h_08",
+    "name": "비밀의 정원 [헤더택+opp포함]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07",
+    "discontinued": true,
+    "discontinued_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_h_09",
+    "card_code": "2026pb_h_09",
+    "name": "로맨티시즘 [헤더택+opp포함]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07",
+    "discontinued": true,
+    "discontinued_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_h_10",
+    "card_code": "2026pb_h_10",
+    "name": "달콤한 시간 [헤더택+opp포함]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07",
+    "discontinued": true,
+    "discontinued_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_h_11",
+    "card_code": "2026pb_h_11",
+    "name": "Happiness [헤더택+opp포함]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07",
+    "discontinued": true,
+    "discontinued_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_h_12",
+    "card_code": "2026pb_h_12",
+    "name": "따뜻한 어느날 [헤더택+opp포함]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07",
+    "discontinued": true,
+    "discontinued_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_h_13",
+    "card_code": "2026pb_h_13",
+    "name": "Something [헤더택+opp포함]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07",
+    "discontinued": true,
+    "discontinued_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_h_14",
+    "card_code": "2026pb_h_14",
+    "name": "러블리 [헤더택+opp포함]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07",
+    "discontinued": true,
+    "discontinued_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_h_15",
+    "card_code": "2026pb_h_15",
+    "name": "Love moments [헤더택+opp포함]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07",
+    "discontinued": true,
+    "discontinued_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_h_16",
+    "card_code": "2026pb_h_16",
+    "name": "바닷속 조각보 [헤더택+opp포함]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07",
+    "discontinued": true,
+    "discontinued_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_s_05",
+    "card_code": "2026pb_s_05",
+    "name": "바람 비행 5장 세트[종이봉투 S]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07"
+  },
+  {
+    "erp_code": "2026pb_s_06",
+    "card_code": "2026pb_s_06",
+    "name": "With love 5장 세트[종이봉투 S]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07"
+  },
+  {
+    "erp_code": "2026pb_s_07",
+    "card_code": "2026pb_s_07",
+    "name": "사랑의 오브제 5장 세트[종이봉투 S]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07"
+  },
+  {
+    "erp_code": "2026pb_s_08",
+    "card_code": "2026pb_s_08",
+    "name": "바닷속 조각보 5장 세트[종이봉투 S]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07"
+  },
+  {
+    "erp_code": "2026pb_s_09",
+    "card_code": "2026pb_s_09",
+    "name": "퍼피 멜로디 5장 세트[종이봉투 S]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07"
+  },
+  {
+    "erp_code": "2026pb_s_10",
+    "card_code": "2026pb_s_10",
+    "name": "로맨틱 스완 5장 세트[종이봉투 S]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07"
+  },
+  {
+    "erp_code": "2026pb_s_11",
+    "card_code": "2026pb_s_11",
+    "name": "로맨티시즘 5장 세트[종이봉투 S]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07"
+  },
+  {
+    "erp_code": "2026pb_s_12",
+    "card_code": "2026pb_s_12",
+    "name": "따뜻한 어느날 5장 세트[종이봉투 S]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07"
+  },
+  {
+    "erp_code": "2026pb_s_13",
+    "card_code": "2026pb_s_13",
+    "name": "달콤한 시간 5장 세트[종이봉투 S]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07"
+  },
+  {
+    "erp_code": "2026pb_m_05",
+    "card_code": "2026pb_m_05",
+    "name": "바람 비행 5장 세트[종이봉투 M]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07"
+  },
+  {
+    "erp_code": "2026pb_m_06",
+    "card_code": "2026pb_m_06",
+    "name": "With love 5장 세트[종이봉투 M]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07"
+  },
+  {
+    "erp_code": "2026pb_m_07",
+    "card_code": "2026pb_m_07",
+    "name": "Love moments 5장 세트[종이봉투 M]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07"
+  },
+  {
+    "erp_code": "2026pb_m_08",
+    "card_code": "2026pb_m_08",
+    "name": "바닷속 조각보 5장 세트[종이봉투 M]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07"
+  },
+  {
+    "erp_code": "2026pb_m_09",
+    "card_code": "2026pb_m_09",
+    "name": "퍼피 멜로디 5장 세트[종이봉투 M]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07"
+  },
+  {
+    "erp_code": "2026pb_m_10",
+    "card_code": "2026pb_m_10",
+    "name": "로맨틱 스완 5장 세트[종이봉투 M]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07"
+  },
+  {
+    "erp_code": "2026pb_m_11",
+    "card_code": "2026pb_m_11",
+    "name": "로맨티시즘 5장 세트[종이봉투 M]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07"
+  },
+  {
+    "erp_code": "2026pb_m_12",
+    "card_code": "2026pb_m_12",
+    "name": "따뜻한 어느날 5장 세트[종이봉투 M]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07"
+  },
+  {
+    "erp_code": "2026pb_m_13",
+    "card_code": "2026pb_m_13",
+    "name": "달콤한 시간 5장 세트[종이봉투 M]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-07"
+  },
+  {
+    "erp_code": "2026_poster_08_SET",
+    "card_code": "2026_poster_08_SET",
+    "name": "[무료배송]레몬시럽[웨딩포스터 세트]",
+    "category": "웨딩포스터",
+    "auto_added": true,
+    "added_at": "2026-05-13"
+  },
+  {
+    "erp_code": "2026_poster_09_set",
+    "card_code": "2026_poster_09_set",
+    "name": "[무료배송]우리의 약속[웨딩포스터 세트]",
+    "category": "웨딩포스터",
+    "auto_added": true,
+    "added_at": "2026-05-13"
+  },
+  {
+    "erp_code": "2026_poster_10_set",
+    "card_code": "2026_poster_10_set",
+    "name": "[무료배송]고백[웨딩포스터 세트]",
+    "category": "웨딩포스터",
+    "auto_added": true,
+    "added_at": "2026-05-13"
+  },
+  {
+    "erp_code": "2026_poster_11_set",
+    "card_code": "2026_poster_11_set",
+    "name": "[무료배송]러블리 핑크[웨딩포스터 세트]",
+    "category": "웨딩포스터",
+    "auto_added": true,
+    "added_at": "2026-05-13"
+  },
+  {
+    "erp_code": "2026_poster_12_set",
+    "card_code": "2026_poster_12_set",
+    "name": "[무료배송]푸른 숲 왈츠[웨딩포스터 세트]",
+    "category": "웨딩포스터",
+    "auto_added": true,
+    "added_at": "2026-05-13"
+  },
+  {
+    "erp_code": "2026_poster_13_set",
+    "card_code": "2026_poster_13_set",
+    "name": "[무료배송]사랑스러운 날[웨딩포스터 세트]",
+    "category": "웨딩포스터",
+    "auto_added": true,
+    "added_at": "2026-05-13"
+  },
+  {
+    "erp_code": "photo_print_12",
+    "card_code": "photo_print_12",
+    "name": "[50% 특가 할인]폴라로이드 미니 [5.4x8.6cm]",
+    "category": "사진인화서비스",
+    "auto_added": true,
+    "added_at": "2026-05-13"
+  },
+  {
+    "erp_code": "2026card_26_set",
+    "card_code": "2026card_26_set",
+    "name": "차윤 엽서 세트",
+    "category": "콜라보",
+    "auto_added": true,
+    "added_at": "2026-05-14"
+  },
+  {
+    "erp_code": "2026card_31_set",
+    "card_code": "2026card_31_set",
+    "name": "설찌 엽서 세트",
+    "category": "콜라보",
+    "auto_added": true,
+    "added_at": "2026-05-14"
+  },
+  {
+    "erp_code": "2026card_36_set",
+    "card_code": "2026card_36_set",
+    "name": "미도리 엽서 세트",
+    "category": "콜라보",
+    "auto_added": true,
+    "added_at": "2026-05-14"
+  },
+  {
+    "erp_code": "2026card_41_set",
+    "card_code": "2026card_41_set",
+    "name": "콜라보 김소이 엽서 세트",
+    "category": "콜라보",
+    "auto_added": true,
+    "added_at": "2026-05-14"
+  },
+  {
+    "erp_code": "2026pb_box_01",
+    "card_code": "2026pb_box_01",
+    "name": "밀키 홈 멜로디 5매 세트[선물상자]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-16"
+  },
+  {
+    "erp_code": "2026pb_box_02",
+    "card_code": "2026pb_box_02",
+    "name": "빈티지 아카이브 5매 세트[선물박스]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-16"
+  },
+  {
+    "erp_code": "2026pb_box_03",
+    "card_code": "2026pb_box_03",
+    "name": "With love 5매 세트[선물상자]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-16"
+  },
+  {
+    "erp_code": "2026pb_box_04",
+    "card_code": "2026pb_box_04",
+    "name": "바람 비행 5매 세트[선물상자]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-16"
+  },
+  {
+    "erp_code": "2026pb_box_05",
+    "card_code": "2026pb_box_05",
+    "name": "러블리 5매 세트[선물상자]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-16"
+  },
+  {
+    "erp_code": "2026pb_box_06",
+    "card_code": "2026pb_box_06",
+    "name": "로맨티시즘 5매 세트[선물상자]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-16"
+  },
+  {
+    "erp_code": "2026pb_box_07",
+    "card_code": "2026pb_box_07",
+    "name": "블루 엔젤 5매 세트[선물상자]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-16"
+  },
+  {
+    "erp_code": "2026pb_box_08",
+    "card_code": "2026pb_box_08",
+    "name": "With love 5매 세트[선물상자]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-16"
+  },
+  {
+    "erp_code": "2026pb_box_09",
+    "card_code": "2026pb_box_09",
+    "name": "바닷속 조각보 5매 세트[선물상자]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-16"
+  },
+  {
+    "erp_code": "2026pb_box_10",
+    "card_code": "2026pb_box_10",
+    "name": "달콤한 시간 5매 세트[선물상자]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-16"
+  },
+  {
+    "erp_code": "2026pb_box_11",
+    "card_code": "2026pb_box_11",
+    "name": "어느날의 물결 5매 세트[선물상자]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-16"
+  },
+  {
+    "erp_code": "2026pb_box_12",
+    "card_code": "2026pb_box_12",
+    "name": "따뜻한 어느날 5매 세트[선물상자]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-16"
+  },
+  {
+    "erp_code": "2026pb_box_13",
+    "card_code": "2026pb_box_13",
+    "name": "With love 5매 세트[선물상자]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-16"
+  },
+  {
+    "erp_code": "2026pb_box_14",
+    "card_code": "2026pb_box_14",
+    "name": "로맨틱 스완 5매 세트[선물상자]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-16"
+  },
+  {
+    "erp_code": "2026pb_box_15",
+    "card_code": "2026pb_box_15",
+    "name": "Forever 5매 세트[선물상자]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-16"
+  },
+  {
+    "erp_code": "2026pb_box_16",
+    "card_code": "2026pb_box_16",
+    "name": "빈티지 아카이브 5매 세트[선물상자]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-16"
+  },
+  {
+    "erp_code": "2026pb_box_17",
+    "card_code": "2026pb_box_17",
+    "name": "퍼피 멜로디 5매 세트[선물상자]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-16"
+  },
+  {
+    "erp_code": "2026pb_box_18",
+    "card_code": "2026pb_box_18",
+    "name": "해피 하우스 5매 세트[선물상자]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-05-16"
+  },
+  {
+    "erp_code": "2026_stamp_01",
+    "card_code": "2026_stamp_01",
+    "name": "심플 웨딩 스탬프",
+    "category": "웨딩 스탬프",
+    "auto_added": true,
+    "added_at": "2026-06-15"
+  },
+  {
+    "erp_code": "2026_stamp_02",
+    "card_code": "2026_stamp_02",
+    "name": "유어 네임 웨딩 스탬프",
+    "category": "웨딩 스탬프",
+    "auto_added": true,
+    "added_at": "2026-06-15"
+  },
+  {
+    "erp_code": "2026_stamp_03",
+    "card_code": "2026_stamp_03",
+    "name": "커트러리 웨딩 스탬프",
+    "category": "웨딩 스탬프",
+    "auto_added": true,
+    "added_at": "2026-06-15"
+  },
+  {
+    "erp_code": "2026_stamp_04",
+    "card_code": "2026_stamp_04",
+    "name": "미도리 작가 웨딩 스탬프",
+    "category": "웨딩 스탬프",
+    "auto_added": true,
+    "added_at": "2026-06-15"
+  },
+  {
+    "erp_code": "2026_stamp_05",
+    "card_code": "2026_stamp_05",
+    "name": "러브버드 웨딩 스탬프",
+    "category": "웨딩 스탬프",
+    "auto_added": true,
+    "added_at": "2026-06-15"
+  },
+  {
+    "erp_code": "2026_stamp_06",
+    "card_code": "2026_stamp_06",
+    "name": "쉘 웨이브 웨딩 스탬프",
+    "category": "웨딩 스탬프",
+    "auto_added": true,
+    "added_at": "2026-06-15"
+  },
+  {
+    "erp_code": "2026_stamp_07",
+    "card_code": "2026_stamp_07",
+    "name": "치얼스 웨딩 스탬프",
+    "category": "웨딩 스탬프",
+    "auto_added": true,
+    "added_at": "2026-06-15"
+  },
+  {
+    "erp_code": "2026_stamp_08",
+    "card_code": "2026_stamp_08",
+    "name": "투유  웨딩 스탬프",
+    "category": "웨딩 스탬프",
+    "auto_added": true,
+    "added_at": "2026-06-15"
+  },
+  {
+    "erp_code": "ALA3_B",
+    "card_code": "ALA3_B",
+    "name": "매트 블랙 프레임 [액자]",
+    "category": "웨딩포스터",
+    "auto_added": true,
+    "added_at": "2026-06-15",
+    "discontinued": true,
+    "discontinued_at": "2026-06-16"
+  },
+  {
+    "erp_code": "2026_NEWSPAPER4",
+    "card_code": "2026_NEWSPAPER4",
+    "name": "러브스토리 50p [갱지 신문]",
+    "category": "웨딩신문",
+    "auto_added": true,
+    "added_at": "2026-06-15"
+  },
+  {
+    "erp_code": "ILL_GTK001",
+    "card_code": "ILL_GTK001",
+    "name": "미도리작업실 스마트톡",
+    "category": "콜라보",
+    "auto_added": true,
+    "added_at": "2026-07-06"
+  },
+  {
+    "erp_code": "ILL_KRG001",
+    "card_code": "ILL_KRG001",
+    "name": "미도리작업실 아크릴 키링",
+    "category": "콜라보",
+    "auto_added": true,
+    "added_at": "2026-07-06"
+  },
+  {
+    "erp_code": "2026_sticker_15",
+    "card_code": "2026_sticker_15",
+    "name": "설찌 웨딩 네임 스티커(Yellow ver.)",
+    "category": "콜라보",
+    "auto_added": true,
+    "added_at": "2026-07-06"
+  },
+  {
+    "erp_code": "2026_sticker_16",
+    "card_code": "2026_sticker_16",
+    "name": "설찌 웨딩 네임 스티커(Pink ver.)",
+    "category": "콜라보",
+    "auto_added": true,
+    "added_at": "2026-07-06"
+  },
+  {
+    "erp_code": "2026_sticker_17",
+    "card_code": "2026_sticker_17",
+    "name": "미도리작업실 네임스티커",
+    "category": "콜라보",
+    "auto_added": true,
+    "added_at": "2026-07-06"
+  },
+  {
+    "erp_code": "GTK001",
+    "card_code": "GTK001",
+    "name": "플레이 [아크릴 그립톡]",
+    "category": "아크릴소품",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "GTK002",
+    "card_code": "GTK002",
+    "name": "뮤즈[아크릴 그립톡]",
+    "category": "아크릴소품",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "GTK003",
+    "card_code": "GTK003",
+    "name": "클로버 [아크릴 그립톡]",
+    "category": "아크릴소품",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "GTK004",
+    "card_code": "GTK004",
+    "name": "하트열매[아크릴 그립톡]",
+    "category": "아크릴소품",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "1st_acryl_xs",
+    "card_code": "1st_acryl_xs",
+    "name": "Hello baby XS (65mm) [아크릴등신대]",
+    "category": "아크릴 등신대",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "1st_acryl_s",
+    "card_code": "1st_acryl_s",
+    "name": "Hello baby S (150mm) [아크릴등신대]",
+    "category": "아크릴 등신대",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "1st_acryl_M",
+    "card_code": "1st_acryl_M",
+    "name": "Hello baby M(190mm) [아크릴등신대]",
+    "category": "아크릴 등신대",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "1st_acryl_L",
+    "card_code": "1st_acryl_L",
+    "name": "Hello baby L(290mm) [아크릴 등신대]",
+    "category": "아크릴 등신대",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "qr_sticker_10",
+    "card_code": "qr_sticker_10",
+    "name": "QR스티커 투명(영문ver)",
+    "category": "커스텀스티커",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "qr_sticker_12",
+    "card_code": "qr_sticker_12",
+    "name": "QR스티커 투명_하트",
+    "category": "커스텀스티커",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "Epoxysticker_Circle",
+    "card_code": "Epoxysticker_Circle",
+    "name": "원형 에폭시 스티커",
+    "category": "커스텀스티커",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "qr_sticker_9",
+    "card_code": "qr_sticker_9",
+    "name": "QR스티커 투명(한글ver)",
+    "category": "커스텀스티커",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "B_sticker_13",
+    "card_code": "B_sticker_13",
+    "name": "큐티 스티커(아치형VER)",
+    "category": "커스텀스티커",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "B_sticker_14",
+    "card_code": "B_sticker_14",
+    "name": "큐티 스티커(빈티지프레임VER)",
+    "category": "커스텀스티커",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "qr_sticker_11",
+    "card_code": "qr_sticker_11",
+    "name": "QR스티커 투명_클로버",
+    "category": "커스텀스티커",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "Epoxysticker_Ellipse_EN",
+    "card_code": "Epoxysticker_Ellipse_EN",
+    "name": "타원형 에폭시 스티커(영문ver.)",
+    "category": "커스텀스티커",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "Epoxysticker_Ellipse_KO",
+    "card_code": "Epoxysticker_Ellipse_KO",
+    "name": "타원형 에폭시 스티커(한글ver.)",
+    "category": "커스텀스티커",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "MC001",
+    "card_code": "MC001",
+    "name": "댄싱커플 [메시지카드]",
+    "category": "메시지 카드",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "MC002",
+    "card_code": "MC002",
+    "name": "함께 걷는 우리 [메시지 카드]",
+    "category": "메시지 카드",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "MC003",
+    "card_code": "MC003",
+    "name": "러블리 웨딩 [메시지 카드]",
+    "category": "메시지 카드",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "MC004",
+    "card_code": "MC004",
+    "name": "온기 [메시지카드]",
+    "category": "메시지 카드",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "MC005",
+    "card_code": "MC005",
+    "name": "안부 [메시지카드]",
+    "category": "메시지 카드",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "MC006",
+    "card_code": "MC006",
+    "name": "Dear You [메시지카드]",
+    "category": "메시지 카드",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "MC007",
+    "card_code": "MC007",
+    "name": "진심 [메시지카드]",
+    "category": "메시지 카드",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "b_puzzle_01",
+    "card_code": "b_puzzle_01",
+    "name": "돌잔치_기억조각 퍼즐 S (63pcs)",
+    "category": "퍼즐액자",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "b_puzzle_02",
+    "card_code": "b_puzzle_02",
+    "name": "돌잔치_기억조각 퍼즐 M (165pcs)",
+    "category": "퍼즐액자",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "b_puzzle_03",
+    "card_code": "b_puzzle_03",
+    "name": "돌잔치_기억조각 퍼즐 L (315pcs)",
+    "category": "퍼즐액자",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_box_20",
+    "card_code": "2026pb_box_20",
+    "name": "[50%할인] 리프업 5매 세트[선물상자]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_bag_01",
+    "card_code": "2026pb_bag_01",
+    "name": "[50%할인] 바람 비행 [쇼핑백]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_box_19",
+    "card_code": "2026pb_box_19",
+    "name": "[50%할인] Your day 5매 세트[선물상자]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_box_21",
+    "card_code": "2026pb_box_21",
+    "name": "[50%할인] 직사각 무지 5매 세트[선물상자]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_box_22",
+    "card_code": "2026pb_box_22",
+    "name": "[50%할인] 정사각 무지 5매 세트[선물상자]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_box_23",
+    "card_code": "2026pb_box_23",
+    "name": "[50%할인] 무지 큰집 5매 세트[선물상자]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_bag_02",
+    "card_code": "2026pb_bag_02",
+    "name": "[50%할인] 빈티지 아카이브 [쇼핑백]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_bag_03",
+    "card_code": "2026pb_bag_03",
+    "name": "[50%할인] 엔젤 드로잉 [쇼핑백]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_bag_04",
+    "card_code": "2026pb_bag_04",
+    "name": "[50%할인] 해피니스 [쇼핑백]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_bag_05",
+    "card_code": "2026pb_bag_05",
+    "name": "[50%할인] 달콤한 시간 [쇼핑백]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_bag_06",
+    "card_code": "2026pb_bag_06",
+    "name": "[50%할인] Love moments [쇼핑백]",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_nr_01",
+    "card_code": "2026pb_nr_01",
+    "name": "[50%할인] 엔젤 드로잉 50장 세트",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_nr_05",
+    "card_code": "2026pb_nr_05",
+    "name": "[50%할인] 퍼피멜로디 50장 세트",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_r_01",
+    "card_code": "2026pb_r_01",
+    "name": "[50%할인] Something 5장 세트",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "2026pb_r_02",
+    "card_code": "2026pb_r_02",
+    "name": "[50%할인] 러블리하트 5장 세트",
+    "category": "선물 포장지",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "BC5341_SET",
+    "card_code": "BC5341_SET",
+    "name": "클래식 골드 SET [용돈봉투]",
+    "category": "엽서/캘린더",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "BC5334_SET",
+    "card_code": "BC5334_SET",
+    "name": "파스텔가든 SET [용돈봉투]",
+    "category": "엽서/캘린더",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "BC5338_SET",
+    "card_code": "BC5338_SET",
+    "name": "[30% 할인] 골드 레터링 SET [용돈봉투]",
+    "category": "엽서/캘린더",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "B_magnet50",
+    "card_code": "B_magnet50",
+    "name": "베이비 마그넷(정사각VER)",
+    "category": "돌잔치",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "B_magnet135",
+    "card_code": "B_magnet135",
+    "name": "베이비 마그넷(직사각VER)",
+    "category": "돌잔치",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "B_photo_print_01",
+    "card_code": "B_photo_print_01",
+    "name": "반명함 8매 [3x4cm]",
+    "category": "돌잔치",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "B_photo_print_02",
+    "card_code": "B_photo_print_02",
+    "name": "주민등록/여권 8매 [3.5x4.5cm]",
+    "category": "돌잔치",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "B_photo_print_03",
+    "card_code": "B_photo_print_03",
+    "name": "명함 4매 [5x7cm]",
+    "category": "돌잔치",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "b_photo_print_04",
+    "card_code": "b_photo_print_04",
+    "name": "아기 사진 3 x 5 4매 [8.9x12.7cm]",
+    "category": "돌잔치",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "b_photo_print_06",
+    "card_code": "b_photo_print_06",
+    "name": "아기 사진 4 x 6 2매 [10.2x15.2cm]",
+    "category": "돌잔치",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "b_photo_print_07",
+    "card_code": "b_photo_print_07",
+    "name": "아기 사진 5 x 7 2매 [12.7x17.8cm]",
+    "category": "돌잔치",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "b_photo_print_08",
+    "card_code": "b_photo_print_08",
+    "name": "아기 사진 8 x 10 1매 [20.3x25.4cm]",
+    "category": "돌잔치",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "b_photo_print_09",
+    "card_code": "b_photo_print_09",
+    "name": "아기 사진 A4 1매 [21x29.7cm]",
+    "category": "돌잔치",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "b_photo_print_10",
+    "card_code": "b_photo_print_10",
+    "name": "아기 사진 12 x 16 1매 [28.5x36.2cm]",
+    "category": "돌잔치",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "b_photo_print_05",
+    "card_code": "b_photo_print_05",
+    "name": "아기 사진 D4 2매 [10.2x13.6cm]",
+    "category": "돌잔치",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "b_GTK001",
+    "card_code": "b_GTK001",
+    "name": "베이비_플레이 [아크릴 그립톡]",
+    "category": "돌잔치",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "b_GTK002",
+    "card_code": "b_GTK002",
+    "name": "베이비_뮤즈 [아크릴 그립톡]",
+    "category": "돌잔치",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "b_GTK003",
+    "card_code": "b_GTK003",
+    "name": "베이비_클로버[아크릴 그립톡]",
+    "category": "돌잔치",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "b_GTK004",
+    "card_code": "b_GTK004",
+    "name": "베이비_하트열매[아크릴 그립톡]",
+    "category": "돌잔치",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "b_photo_print_12",
+    "card_code": "b_photo_print_12",
+    "name": "베이비 폴라로이드 미니 [5.4x8.6cm]",
+    "category": "돌잔치",
+    "auto_added": true,
+    "added_at": "2026-08-10"
+  },
+  {
+    "erp_code": "BC6517_SET",
+    "card_code": "BC6517_SET",
+    "name": "[추석]달토끼 카드 봉투 세트",
+    "category": "추석 카드/봉투/선물포장",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "BC6519_SET",
+    "card_code": "BC6519_SET",
+    "name": "[추석]푸른 빛 기운 카드 세트",
+    "category": "추석 카드/봉투/선물포장",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "BC6522_SET",
+    "card_code": "BC6522_SET",
+    "name": "[추석]주홍빛 가을 카드 세트",
+    "category": "추석 카드/봉투/선물포장",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "BC6521_SET",
+    "card_code": "BC6521_SET",
+    "name": "[추석]익어가는 계절 카드 세트",
+    "category": "추석 카드/봉투/선물포장",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "BC6520_SET",
+    "card_code": "BC6520_SET",
+    "name": "[추석]중추가절 카드 세트",
+    "category": "추석 카드/봉투/선물포장",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "BC6518_SET",
+    "card_code": "BC6518_SET",
+    "name": "[추석]풍요로운 카드 세트",
+    "category": "추석 카드/봉투/선물포장",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "BOXDIY_KIT",
+    "card_code": "BOXDIY_KIT",
+    "name": "[추석] 박스 포장 DIY KIT",
+    "category": "추석 카드/봉투/선물포장",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "BC6511_SET",
+    "card_code": "BC6511_SET",
+    "name": "[추석]달콤 한가득, 홍시 카드 (3ea_1set)",
+    "category": "추석 카드/봉투/선물포장",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "BC6512_SET",
+    "card_code": "BC6512_SET",
+    "name": "[추석]행복 한가득, 대보름 카드 (3ea_1set)",
+    "category": "추석 카드/봉투/선물포장",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "BC6513_SET",
+    "card_code": "BC6513_SET",
+    "name": "[추석]마음 한가득, 추석 카드",
+    "category": "추석 카드/봉투/선물포장",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "BC6514_SET",
+    "card_code": "BC6514_SET",
+    "name": "[추석]홍시 만개 카드 (3ea_1set)",
+    "category": "추석 카드/봉투/선물포장",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "BC6515_SET",
+    "card_code": "BC6515_SET",
+    "name": "[추석]보름달 카드 (3ea_1set)",
+    "category": "추석 카드/봉투/선물포장",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "BC6516_SET",
+    "card_code": "BC6516_SET",
+    "name": "[추석]민화조 카드 (3ea_1set)",
+    "category": "추석 카드/봉투/선물포장",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "2026_stamp_09",
+    "card_code": "2026_stamp_09",
+    "name": "손잡고 스퀘어 스탬프",
+    "category": "웨딩 스탬프",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "2026_stamp_10",
+    "card_code": "2026_stamp_10",
+    "name": "두사람 스퀘어 스탬프",
+    "category": "웨딩 스탬프",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "2026_stamp_11",
+    "card_code": "2026_stamp_11",
+    "name": "레터링 스퀘어 스탬프",
+    "category": "웨딩 스탬프",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "2026_stamp_12",
+    "card_code": "2026_stamp_12",
+    "name": "세레모니 스퀘어 스탬프",
+    "category": "웨딩 스탬프",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "2026_stamp_13",
+    "card_code": "2026_stamp_13",
+    "name": "러브키 스퀘어 스탬프",
+    "category": "웨딩 스탬프",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "2026_stamp_14",
+    "card_code": "2026_stamp_14",
+    "name": "메모리 스퀘어 스탬프",
+    "category": "웨딩 스탬프",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "stamp_w_hanbok",
+    "card_code": "stamp_w_hanbok",
+    "name": "연지곤지 신부 스탬프",
+    "category": "웨딩 스탬프",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "stamp_m_hanbok",
+    "card_code": "stamp_m_hanbok",
+    "name": "연지곤지 신랑 스탬프",
+    "category": "웨딩 스탬프",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "stamp_w_wedding",
+    "card_code": "stamp_w_wedding",
+    "name": "러블리 신부 스탬프",
+    "category": "웨딩 스탬프",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "stamp_m_wedding",
+    "card_code": "stamp_m_wedding",
+    "name": "러블리 신랑 스탬프",
+    "category": "웨딩 스탬프",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "stamp_w_heart",
+    "card_code": "stamp_w_heart",
+    "name": "하트캐리 신부 스탬프",
+    "category": "웨딩 스탬프",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "stamp_m_heart",
+    "card_code": "stamp_m_heart",
+    "name": "하트캐리 신랑 스탬프",
+    "category": "웨딩 스탬프",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "stamp_ring_eng",
+    "card_code": "stamp_ring_eng",
+    "name": "웨딩링 스탬프(영문ver)",
+    "category": "웨딩 스탬프",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "A2FabricPoster1",
+    "card_code": "A2FabricPoster1",
+    "name": "Our day[A2 패브릭포스터]",
+    "category": "웨딩포스터",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "A2FabricPoster2",
+    "card_code": "A2FabricPoster2",
+    "name": "웨딩데이 [A2 패브릭포스터]",
+    "category": "웨딩포스터",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "A2FabricPoster3",
+    "card_code": "A2FabricPoster3",
+    "name": "Story of [A2 패브릭포스터]",
+    "category": "웨딩포스터",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "magnet_02",
+    "card_code": "magnet_02",
+    "name": "직사각 아크릴 마그넷",
+    "category": "아크릴소품",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "magnet50",
+    "card_code": "magnet50",
+    "name": "아크릴 마그넷(정사각ver)",
+    "category": "아크릴소품",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "magnet135",
+    "card_code": "magnet135",
+    "name": "아크릴 마그넷(직사각ver)",
+    "category": "아크릴소품",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "magnet_book",
+    "card_code": "magnet_book",
+    "name": "북 마그넷",
+    "category": "아크릴소품",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "magnet_love",
+    "card_code": "magnet_love",
+    "name": "러브 카드 마그넷",
+    "category": "아크릴소품",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "magnet_lp",
+    "card_code": "magnet_lp",
+    "name": "LP플레이 마그넷",
+    "category": "아크릴소품",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "magnet_silhouette40",
+    "card_code": "magnet_silhouette40",
+    "name": "실루엣 마그넷S",
+    "category": "아크릴소품",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "magnet_silhouette50",
+    "card_code": "magnet_silhouette50",
+    "name": "실루엣 마그넷M",
+    "category": "아크릴소품",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "magnet_silhouette60",
+    "card_code": "magnet_silhouette60",
+    "name": "실루엣 마그넷L",
+    "category": "아크릴소품",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "NEWSPAPER5",
+    "card_code": "NEWSPAPER5",
+    "name": "웨딩 뉴스(영문VER) 50p [갱지 신문]",
+    "category": "웨딩신문",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "NEWSPAPER6",
+    "card_code": "NEWSPAPER6",
+    "name": "웨딩 뉴스(한글VER)50p [갱지 신문]",
+    "category": "웨딩신문",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "NEWSPAPER7",
+    "card_code": "NEWSPAPER7",
+    "name": "웨딩데이 뉴스 50p [갱지 신문]",
+    "category": "웨딩신문",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "led_frame8_01",
+    "card_code": "led_frame8_01",
+    "name": "나만의 무드등 S(파리선셋ver)",
+    "category": "NEW 나만의 무드등",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "led_frame8_02",
+    "card_code": "led_frame8_02",
+    "name": "나만의 무드등S (도시의 밤하늘ver)",
+    "category": "NEW 나만의 무드등",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "led_frame8_03",
+    "card_code": "led_frame8_03",
+    "name": "나만의 무드등S (유화 풍경ver)",
+    "category": "NEW 나만의 무드등",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "led_frame8_04",
+    "card_code": "led_frame8_04",
+    "name": "나만의 무드등S (은하수ver)",
+    "category": "NEW 나만의 무드등",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "led_frame8_05",
+    "card_code": "led_frame8_05",
+    "name": "나만의 무드등S (달빛 노을ver)",
+    "category": "NEW 나만의 무드등",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "led_frame8_06",
+    "card_code": "led_frame8_06",
+    "name": "나만의 무드등S (After ver)",
+    "category": "NEW 나만의 무드등",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "led_frameA4_01",
+    "card_code": "led_frameA4_01",
+    "name": "나만의 무드등L (파리선셋ver)",
+    "category": "NEW 나만의 무드등",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "led_frameA4_02",
+    "card_code": "led_frameA4_02",
+    "name": "나만의 무드등L (도시의 밤하늘ver)",
+    "category": "NEW 나만의 무드등",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "led_frameA4_03",
+    "card_code": "led_frameA4_03",
+    "name": "나만의 무드등L (유화 풍경ver)",
+    "category": "NEW 나만의 무드등",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "led_frameA4_04",
+    "card_code": "led_frameA4_04",
+    "name": "나만의 무드등L (은하수ver)",
+    "category": "NEW 나만의 무드등",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "led_frameA4_05",
+    "card_code": "led_frameA4_05",
+    "name": "나만의 무드등L (달빛 노을ver)",
+    "category": "NEW 나만의 무드등",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "led_frameA4_06",
+    "card_code": "led_frameA4_06",
+    "name": "나만의 무드등L (After ver)",
+    "category": "NEW 나만의 무드등",
+    "auto_added": true,
+    "added_at": "2026-09-17"
+  },
+  {
+    "erp_code": "DI5201_SET",
+    "card_code": "DI5201_SET",
+    "name": "Winnie the Pooh’s Holiday Mini Card",
+    "category": "디즈니 콜라보",
+    "auto_added": true,
+    "added_at": "2026-09-18"
+  },
+  {
+    "erp_code": "DI5202_SET",
+    "card_code": "DI5202_SET",
+    "name": "Winnie the Pooh’s Holiday Mini Card",
+    "category": "디즈니 콜라보",
+    "auto_added": true,
+    "added_at": "2026-09-18"
+  },
+  {
+    "erp_code": "DI5203_SET",
+    "card_code": "DI5203_SET",
+    "name": "Winnie the Pooh’s Holiday Mini Card",
+    "category": "디즈니 콜라보",
+    "auto_added": true,
+    "added_at": "2026-09-18"
+  },
+  {
+    "erp_code": "DI5204_SET",
+    "card_code": "DI5204_SET",
+    "name": "The House of Mickey Ornament card",
+    "category": "디즈니 콜라보",
+    "auto_added": true,
+    "added_at": "2026-09-18"
+  },
+  {
+    "erp_code": "DI5205_SET",
+    "card_code": "DI5205_SET",
+    "name": "Mickey Mouse Ornament card",
+    "category": "디즈니 콜라보",
+    "auto_added": true,
+    "added_at": "2026-09-18"
+  },
+  {
+    "erp_code": "DI5206_SET",
+    "card_code": "DI5206_SET",
+    "name": "Minnie Mouse Ornament card",
+    "category": "디즈니 콜라보",
+    "auto_added": true,
+    "added_at": "2026-09-18"
+  },
+  {
+    "erp_code": "DI5207_SET",
+    "card_code": "DI5207_SET",
+    "name": "Santa Mickey Bell Ornament",
+    "category": "디즈니 콜라보",
+    "auto_added": true,
+    "added_at": "2026-09-18"
+  },
+  {
+    "erp_code": "DI5208_SET",
+    "card_code": "DI5208_SET",
+    "name": "Winnie the Pooh’s Art frame collection card",
+    "category": "디즈니 콜라보",
+    "auto_added": true,
+    "added_at": "2026-09-18"
+  },
+  {
+    "erp_code": "DI5209_SET",
+    "card_code": "DI5209_SET",
+    "name": "Winnie the Pooh’s Art frame collection card",
+    "category": "디즈니 콜라보",
+    "auto_added": true,
+    "added_at": "2026-09-18"
+  },
+  {
+    "erp_code": "DI5210_SET",
+    "card_code": "DI5210_SET",
+    "name": "Winnie the Pooh’s Art frame collection card",
+    "category": "디즈니 콜라보",
+    "auto_added": true,
+    "added_at": "2026-09-18"
+  },
+  {
+    "erp_code": "DI5211_SET",
+    "card_code": "DI5211_SET",
+    "name": "Mickey Mouse Art Framed Card",
+    "category": "디즈니 콜라보",
+    "auto_added": true,
+    "added_at": "2026-09-18"
+  },
+  {
+    "erp_code": "DI5212_SET",
+    "card_code": "DI5212_SET",
+    "name": "Steamboat Willie pop-up card",
+    "category": "디즈니 콜라보",
+    "auto_added": true,
+    "added_at": "2026-09-18"
+  },
+  {
+    "erp_code": "DI5213_SET",
+    "card_code": "DI5213_SET",
+    "name": "Winnie the Pooh’s Holiday Card",
+    "category": "디즈니 콜라보",
+    "auto_added": true,
+    "added_at": "2026-09-18"
+  },
+  {
+    "erp_code": "DDS012_b",
+    "card_code": "DDS012_b",
+    "name": "하트 스티커",
+    "category": "스티커",
+    "auto_added": true,
+    "added_at": "2026-09-22",
+    "source": "mdseq=115"
+  },
+  {
+    "erp_code": "stamp_ring_kor",
+    "card_code": "stamp_ring_kor",
+    "name": "웨딩링 스탬프(한글ver) [잉크무료증정]",
+    "category": "웨딩 스탬프",
+    "auto_added": true,
+    "added_at": "2026-09-29"
+  },
+  {
+    "erp_code": "stamp_hanbok_set_02",
+    "card_code": "stamp_hanbok_set_02",
+    "name": "연지곤지 신랑·신부 세트 스탬프[잉크무료증정]",
+    "category": "웨딩 스탬프",
+    "auto_added": true,
+    "added_at": "2026-09-29"
+  },
+  {
+    "erp_code": "stamp_wedding_set_02",
+    "card_code": "stamp_wedding_set_02",
+    "name": "러블리 신랑·신부 세트 스탬프[잉크무료증정]",
+    "category": "웨딩 스탬프",
+    "auto_added": true,
+    "added_at": "2026-09-29"
+  },
+  {
+    "erp_code": "stamp_heart_set_02",
+    "card_code": "stamp_heart_set_02",
+    "name": "하트캐리 신랑·신부 세트 스탬프[잉크무료증정]",
+    "category": "웨딩 스탬프",
+    "auto_added": true,
+    "added_at": "2026-09-29"
+  },
+  {
+    "erp_code": "b_stamp_01",
+    "card_code": "b_stamp_01",
+    "name": "왕자 첫돌 스탬프[잉크무료증정]",
+    "category": "스탬프",
+    "auto_added": true,
+    "added_at": "2026-10-01"
+  },
+  {
+    "erp_code": "b_stamp_02",
+    "card_code": "b_stamp_02",
+    "name": "공주 첫돌 스탬프[잉크무료증정]",
+    "category": "스탬프",
+    "auto_added": true,
+    "added_at": "2026-10-01"
+  },
+  {
+    "erp_code": "b_stamp_03",
+    "card_code": "b_stamp_03",
+    "name": "크라운 스탬프[잉크무료증정]",
+    "category": "스탬프",
+    "auto_added": true,
+    "added_at": "2026-10-01"
+  },
+  {
+    "erp_code": "b_stamp_04",
+    "card_code": "b_stamp_04",
+    "name": "하트 베이비 스탬프[잉크무료증정]",
+    "category": "스탬프",
+    "auto_added": true,
+    "added_at": "2026-10-01"
+  },
+  {
+    "erp_code": "b_stamp_05",
+    "card_code": "b_stamp_05",
+    "name": "메시지 베이비 스탬프[잉크무료증정]",
+    "category": "스탬프",
+    "auto_added": true,
+    "added_at": "2026-10-01"
+  }
+]

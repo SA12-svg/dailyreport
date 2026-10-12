@@ -1224,9 +1224,35 @@ tr:hover td{background:#f8f9ff}
 .prodtbl td.name{text-align:left;max-width:220px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .conv-hi{color:#c62828;font-weight:700}
 .conv-lo{color:#999}
+/* ── 1depth: 청첩장 / 스테이셔너리 ── */
+.top1{position:sticky;top:0;z-index:110;height:42px;display:flex;align-items:center;gap:6px;padding:0 24px;background:#0a2a5e}
+.top1 .b1{padding:7px 18px;border:none;border-radius:6px;background:transparent;color:rgba(255,255,255,.7);cursor:pointer;font-size:13.5px;font-weight:700;font-family:inherit}
+.top1 .b1:hover{background:rgba(255,255,255,.12);color:#fff}
+.top1 .b1.on{background:#fff;color:#0d47a1}
+.hdr{top:42px}
+#stpane{display:none}
+#stpane iframe{display:block;width:100%;height:calc(100vh - 42px);border:0;background:#f9f9f7}
+body.mode-st .hdr,body.mode-st .page,body.mode-st .ft{display:none!important}
+body.mode-st #stpane{display:block}
 </style>
 </head>
 <body>
+<div class="top1" id="top1">
+  <button class="b1 on" data-m="inv" onclick="switchTop('inv')">💌 청첩장</button>
+  <button class="b1" data-m="st" onclick="switchTop('st')">✉️ 스테이셔너리</button>
+</div>
+<div id="stpane"><iframe id="stframe" title="스테이셔너리 대시보드"></iframe></div>
+<script>
+/* 1depth 전환. 청첩장이 기본, #stationery 해시면 스테이셔너리로 시작. iframe은 처음 열 때만 로드 */
+function switchTop(m){
+  document.body.classList.toggle('mode-st', m==='st');
+  document.querySelectorAll('#top1 .b1').forEach(b=>b.classList.toggle('on', b.dataset.m===m));
+  const f=document.getElementById('stframe');
+  if(m==='st' && !f.src) f.src='stationery/';
+  history.replaceState(null,'', m==='st' ? '#stationery' : location.pathname+location.search);
+}
+if(location.hash==='#stationery') document.addEventListener('DOMContentLoaded',()=>switchTop('st'));
+</script>
 <div class="hdr">
   <h1>바른손 통합 대시보드</h1>
   <div class="hdr-row">
@@ -2099,11 +2125,43 @@ def verify_session_cookie(value):
         return None
 
 
+# ── 스테이셔너리(기념굿즈 대시보드, deco-dashboard) 프록시 ──
+# 1depth 탭 "스테이셔너리"는 iframe 으로 stationery/ 를 열고, 이 서버가 내부 Flask 앱(기본 127.0.0.1:10050)으로 중계한다.
+STATIONERY_PREFIX = '/stationery'
+STATIONERY_UPSTREAM = os.getenv('STATIONERY_UPSTREAM', 'http://127.0.0.1:10050')
+
+
+def _proxy_stationery(handler, parsed):
+    import urllib.request, urllib.error
+    sub = parsed.path[len(STATIONERY_PREFIX):] or '/'
+    url = STATIONERY_UPSTREAM + sub + (('?' + parsed.query) if parsed.query else '')
+    try:
+        with urllib.request.urlopen(url, timeout=300) as r:
+            status, ctype, body = r.status, r.headers.get('Content-Type', 'text/html; charset=utf-8'), r.read()
+    except urllib.error.HTTPError as e:
+        status, ctype, body = e.code, e.headers.get('Content-Type', 'text/plain; charset=utf-8'), e.read()
+    except Exception as e:
+        status, ctype = 503, 'text/html; charset=utf-8'
+        body = ("<!doctype html><meta charset='utf-8'><meta http-equiv='refresh' content='10'>"
+                "<div style='font-family:sans-serif;text-align:center;padding:70px;color:#555'>"
+                "<h3>✉️ 스테이셔너리 대시보드 시작 중…</h3>"
+                f"<p>잠시 후 자동으로 다시 시도합니다. ({e.__class__.__name__})</p></div>").encode('utf-8')
+    handler.send_response(status)
+    handler.send_header('Content-Type', ctype)
+    handler.send_header('Cache-Control', 'no-store')
+    handler.end_headers()
+    handler.wfile.write(body)
+
+
 def _route(raw_path):
     """리버스 프록시 하위 경로 배포(예: /c/dailyreport/api/data) 대응 — 프록시가 접두어를 떼지 않고
     넘겨도 /api/..., /auth/..., /health 로 인식되도록 앞쪽 접두어를 제거한 urlparse 결과를 반환."""
     parsed = urlparse(raw_path)
     p = parsed.path
+    # 스테이셔너리(10050) 프록시 경로를 먼저 판별 — 그 하위의 /api/ 를 데일리 API로 오인하지 않도록
+    i = p.find(STATIONERY_PREFIX)
+    if i >= 0 and (len(p) == i + len(STATIONERY_PREFIX) or p[i + len(STATIONERY_PREFIX)] == '/'):
+        return parsed._replace(path=p[i:])
     for marker in ('/api/', '/auth/'):
         i = p.find(marker)
         if i > 0:
@@ -2208,6 +2266,15 @@ class Handler(BaseHTTPRequestHandler):
         is_api = parsed.path.startswith('/api/')
         if not self._check_auth():
             self._send_auth_required(is_api=is_api)
+            return
+        if parsed.path == STATIONERY_PREFIX:
+            # 상대경로(api/..., promo?...)가 맞게 풀리도록 끝 슬래시 붙여 리다이렉트
+            self.send_response(301)
+            self.send_header('Location', 'stationery/' + (('?' + parsed.query) if parsed.query else ''))
+            self.end_headers()
+            return
+        if parsed.path.startswith(STATIONERY_PREFIX + '/'):
+            _proxy_stationery(self, parsed)
             return
         if parsed.path in ('/api/data', '/api/insights', '/api/funnel', '/api/newproducts', '/api/addon', '/api/best'):
             try:
